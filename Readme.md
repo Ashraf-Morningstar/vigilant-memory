@@ -1,18 +1,3 @@
-# Generate GitHub Stats GIFs
-
-This project generates GIFs for each of the GitHub stats cards. Some stats below are placeholders in lieu of live account data.
-
-# Examples
-
-![Readme](./out/readme.gif)
-![Main Stats](./out/main-stats.gif)
-![Languages](./out/languages.gif)
-![Top Languages](./out/top-languages.gif)
-![Issue Tracking](./out/issue-tracking.gif)
-![Code Metrics](./out/code-metrics.gif)
-![Activity Overview](./out/activity-overview.gif)
-![Commit Streak](./out/commit-streak.gif)
-
 
 # GitHub Stats Template
 
@@ -76,17 +61,3 @@ This project generates GIFs for each of the GitHub stats cards. Some stats below
 
 
 
-
-<div align="center">
-   <img src="https://raw.githubusercontent.com/LukeHagar/github-stats-remotion/main/out/readme.gif">
-</div>
-
-<div align="center">
-
-<br/>
-
-I'm a Software Engineer based in Austin, Texas.
-
-I love Open Source, Developer Tooling, API Design, and all things Svelte.
-
-Here are some of my sites

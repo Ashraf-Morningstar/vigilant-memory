@@ -1,0 +1,57 @@
+{
+	"name": "remotion-template",
+	"version": "1.0.0",
+	"description": "My Remotion video",
+	"sideEffects": [
+		"*.css"
+	],
+	"scripts": {
+		"start": "remotion studio --props ./input.json",
+		"render": "yarn render:stats && yarn render:languages && yarn render:readme && yarn render:main-stats && yarn render:issue-tracking && yarn render:code-metrics && yarn render:activity-overview && yarn render:commit-streak && yarn render:top-languages",
+		"render:stats": "remotion render --props ./input.json stats out/stats.gif",
+		"render:languages": "remotion render --props ./input.json languages out/languages.gif",
+		"render:readme": "remotion render --props ./input.json readme out/readme.gif",
+		"render:main-stats": "remotion render --props ./input.json main-stats out/main-stats.gif",
+		"render:issue-tracking": "remotion render --props ./input.json issue-tracking out/issue-tracking.gif",
+		"render:code-metrics": "remotion render --props ./input.json code-metrics out/code-metrics.gif",
+		"render:activity-overview": "remotion render --props ./input.json activity-overview out/activity-overview.gif",
+		"render:commit-streak": "remotion render --props ./input.json commit-streak out/commit-streak.gif",
+		"render:top-languages": "remotion render --props ./input.json top-languages out/top-languages.gif",
+		"upgrade": "remotion upgrade",
+		"test": "eslint src --ext ts,tsx,js,jsx && tsc"
+	},
+	"repository": {},
+	"license": "MIT",
+	"dependencies": {
+		"@remotion/bundler": "^4.0.214",
+		"@remotion/cli": "^4.0.214",
+		"@remotion/zod-types": "^4.0.214",
+		"axios": "^1.7.7",
+		"clsx": "^2.1.1",
+		"framer-motion": "^11.9.0",
+		"lucide-react": "^0.446.0",
+		"octokit": "^4.0.2",
+		"react": "^18.3.1",
+		"react-dom": "^18.3.1",
+		"remotion": "^4.0.214",
+		"tailwind-merge": "^2.5.2",
+		"zod": "^3.23.8"
+	},
+	"devDependencies": {
+		"@remotion/eslint-config": "^4.0.214",
+		"@remotion/tailwind": "^4.0.214",
+		"@types/react": "^18.3.10",
+		"@types/web": "^0.0.167",
+		"eslint": "^9.11.1",
+		"prettier": "^3.3.3",
+		"typescript": "^5.6.2"
+	},
+	"pnpm": {
+		"peerDependencyRules": {
+			"ignoreMissing": [
+				"webpack"
+			]
+		}
+	},
+	"packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+}

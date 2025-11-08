@@ -2,29 +2,29 @@
     "name": "Ashraf Morningstar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/150266453?v=4",
     "username": "Ashraf-Morningstar",
-    "repoViews": 367,
-    "linesOfCodeChanged": 652991,
-    "linesAdded": 345904,
-    "linesDeleted": 36174,
-    "linesChanged": 270913,
-    "totalCommits": 270920,
+    "repoViews": 368,
+    "linesOfCodeChanged": 2623778,
+    "linesAdded": 2316638,
+    "linesDeleted": 36221,
+    "linesChanged": 270919,
+    "totalCommits": 270926,
     "totalPullRequests": 0,
-    "codeByteTotal": 12885633,
+    "codeByteTotal": 16287005,
     "topLanguages": [
         {
             "languageName": "JavaScript",
             "color": "#f1e05a",
-            "value": 10647301
+            "value": 13519932
         },
         {
             "languageName": "TypeScript",
             "color": "#3178c6",
-            "value": 1413241
+            "value": 1748593
         },
         {
             "languageName": "Java",
             "color": "#b07219",
-            "value": 167736
+            "value": 167911
         },
         {
             "languageName": "C++",
@@ -49,26 +49,46 @@
         {
             "languageName": "Python",
             "color": "#3572A5",
-            "value": 90028
+            "value": 282274
         },
         {
             "languageName": "Cython",
             "color": "#fedf5b",
             "value": 781
+        },
+        {
+            "languageName": "Assembly",
+            "color": "#6E4C13",
+            "value": 387
+        },
+        {
+            "languageName": "Common Lisp",
+            "color": "#3fb68b",
+            "value": 233
+        },
+        {
+            "languageName": "Csound Document",
+            "color": "#1a1a1a",
+            "value": 193
+        },
+        {
+            "languageName": "xBase",
+            "color": "#403a40",
+            "value": 155
         }
     ],
     "forkCount": 0,
     "starCount": 15,
-    "totalContributions": 272045,
+    "totalContributions": 272052,
     "contributionsCollection": {
-        "totalCommitContributions": 272011,
+        "totalCommitContributions": 272017,
         "restrictedContributionsCount": 0,
         "totalIssueContributions": 3,
-        "totalRepositoryContributions": 30,
+        "totalRepositoryContributions": 31,
         "totalPullRequestContributions": 0,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-            "totalContributions": 272045,
+            "totalContributions": 272052,
             "weeks": [
                 {
                     "contributionDays": [
@@ -3425,8 +3445,12 @@
                             "date": "2025-11-06"
                         },
                         {
-                            "contributionCount": 4,
+                            "contributionCount": 5,
                             "date": "2025-11-07"
+                        },
+                        {
+                            "contributionCount": 6,
+                            "date": "2025-11-08"
                         }
                     ]
                 }
@@ -3435,5 +3459,5 @@
     },
     "closedIssues": 1,
     "openIssues": 2,
-    "fetchedAt": 1762520054211
+    "fetchedAt": 1762606138325
 }

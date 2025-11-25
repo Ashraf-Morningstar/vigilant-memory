@@ -2,13 +2,13 @@
     "name": "Ashraf Morningstar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/150266453?v=4",
     "username": "Ashraf-Morningstar",
-    "repoViews": 10,
-    "linesOfCodeChanged": 2625140,
-    "linesAdded": 2317403,
-    "linesDeleted": 36738,
-    "linesChanged": 270999,
-    "totalCommits": 271005,
-    "totalPullRequests": 0,
+    "repoViews": 9,
+    "linesOfCodeChanged": 2625229,
+    "linesAdded": 2317451,
+    "linesDeleted": 36774,
+    "linesChanged": 271004,
+    "totalCommits": 271010,
+    "totalPullRequests": 9,
     "codeByteTotal": 16287005,
     "topLanguages": [
         {
@@ -79,16 +79,16 @@
     ],
     "forkCount": 0,
     "starCount": 15,
-    "totalContributions": 272132,
+    "totalContributions": 272148,
     "contributionsCollection": {
-        "totalCommitContributions": 272097,
+        "totalCommitContributions": 272102,
         "restrictedContributionsCount": 0,
-        "totalIssueContributions": 3,
+        "totalIssueContributions": 5,
         "totalRepositoryContributions": 31,
-        "totalPullRequestContributions": 0,
+        "totalPullRequestContributions": 9,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-            "totalContributions": 272132,
+            "totalContributions": 272148,
             "weeks": [
                 {
                     "contributionDays": [
@@ -3525,8 +3525,12 @@
                             "date": "2025-11-23"
                         },
                         {
-                            "contributionCount": 4,
+                            "contributionCount": 5,
                             "date": "2025-11-24"
+                        },
+                        {
+                            "contributionCount": 15,
+                            "date": "2025-11-25"
                         }
                     ]
                 }
@@ -3534,6 +3538,6 @@
         }
     },
     "closedIssues": 2,
-    "openIssues": 1,
-    "fetchedAt": 1763989094439
+    "openIssues": 3,
+    "fetchedAt": 1764075435027
 }

@@ -2,54 +2,69 @@
     "name": "Ashraf Morningstar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/150266453?v=4",
     "username": "Ashraf-Morningstar",
-    "repoViews": 9,
-    "linesOfCodeChanged": 2625229,
-    "linesAdded": 2317451,
-    "linesDeleted": 36774,
-    "linesChanged": 271004,
-    "totalCommits": 271010,
-    "totalPullRequests": 9,
-    "codeByteTotal": 16287005,
+    "repoViews": 461,
+    "linesOfCodeChanged": 3632672,
+    "linesAdded": 3324573,
+    "linesDeleted": 36880,
+    "linesChanged": 271219,
+    "totalCommits": 271155,
+    "totalPullRequests": 55,
+    "codeByteTotal": 23285077,
     "topLanguages": [
         {
             "languageName": "JavaScript",
             "color": "#f1e05a",
-            "value": 13519932
+            "value": 15145971
+        },
+        {
+            "languageName": "Python",
+            "color": "#3572A5",
+            "value": 2499770
         },
         {
             "languageName": "TypeScript",
             "color": "#3178c6",
-            "value": 1748593
-        },
-        {
-            "languageName": "Java",
-            "color": "#b07219",
-            "value": 167911
+            "value": 1893526
         },
         {
             "languageName": "C++",
             "color": "#f34b7d",
-            "value": 122115
+            "value": 631629
+        },
+        {
+            "languageName": "Shell",
+            "color": "#89e051",
+            "value": 641323
+        },
+        {
+            "languageName": "Java",
+            "color": "#b07219",
+            "value": 584977
         },
         {
             "languageName": "Ruby",
             "color": "#701516",
-            "value": 158826
+            "value": 565116
+        },
+        {
+            "languageName": "Objective-C",
+            "color": "#438eff",
+            "value": 370982
+        },
+        {
+            "languageName": "Pascal",
+            "color": "#E3F171",
+            "value": 326498
+        },
+        {
+            "languageName": "Common Lisp",
+            "color": "#3fb68b",
+            "value": 325361
         },
         {
             "languageName": "Go",
             "color": "#00ADD8",
             "value": 149138
-        },
-        {
-            "languageName": "Shell",
-            "color": "#89e051",
-            "value": 136467
-        },
-        {
-            "languageName": "Python",
-            "color": "#3572A5",
-            "value": 282274
         },
         {
             "languageName": "Cython",
@@ -62,11 +77,6 @@
             "value": 387
         },
         {
-            "languageName": "Common Lisp",
-            "color": "#3fb68b",
-            "value": 233
-        },
-        {
             "languageName": "Csound Document",
             "color": "#1a1a1a",
             "value": 193
@@ -75,20 +85,25 @@
             "languageName": "xBase",
             "color": "#403a40",
             "value": 155
+        },
+        {
+            "languageName": "Fortran",
+            "color": "#4d41b1",
+            "value": 149270
         }
     ],
     "forkCount": 0,
     "starCount": 15,
-    "totalContributions": 272148,
+    "totalContributions": 272338,
     "contributionsCollection": {
-        "totalCommitContributions": 272102,
+        "totalCommitContributions": 272214,
         "restrictedContributionsCount": 0,
-        "totalIssueContributions": 5,
+        "totalIssueContributions": 36,
         "totalRepositoryContributions": 31,
-        "totalPullRequestContributions": 9,
+        "totalPullRequestContributions": 55,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-            "totalContributions": 272148,
+            "totalContributions": 272338,
             "weeks": [
                 {
                     "contributionDays": [
@@ -3117,7 +3132,7 @@
                             "date": "2025-08-26"
                         },
                         {
-                            "contributionCount": 0,
+                            "contributionCount": 14,
                             "date": "2025-08-27"
                         },
                         {
@@ -3505,11 +3520,11 @@
                             "date": "2025-11-19"
                         },
                         {
-                            "contributionCount": 5,
+                            "contributionCount": 19,
                             "date": "2025-11-20"
                         },
                         {
-                            "contributionCount": 5,
+                            "contributionCount": 22,
                             "date": "2025-11-21"
                         },
                         {
@@ -3525,19 +3540,23 @@
                             "date": "2025-11-23"
                         },
                         {
-                            "contributionCount": 5,
+                            "contributionCount": 13,
                             "date": "2025-11-24"
                         },
                         {
-                            "contributionCount": 15,
+                            "contributionCount": 139,
                             "date": "2025-11-25"
+                        },
+                        {
+                            "contributionCount": 13,
+                            "date": "2025-11-26"
                         }
                     ]
                 }
             ]
         }
     },
-    "closedIssues": 2,
-    "openIssues": 3,
-    "fetchedAt": 1764075435027
+    "closedIssues": 16,
+    "openIssues": 20,
+    "fetchedAt": 1764161922972
 }

@@ -2,29 +2,39 @@
     "name": "Ashraf Morningstar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/150266453?v=4",
     "username": "Ashraf-Morningstar",
-    "repoViews": 461,
-    "linesOfCodeChanged": 3632672,
-    "linesAdded": 3324573,
-    "linesDeleted": 36880,
-    "linesChanged": 271219,
-    "totalCommits": 271155,
-    "totalPullRequests": 55,
-    "codeByteTotal": 23285077,
+    "repoViews": 621,
+    "linesOfCodeChanged": 89353968,
+    "linesAdded": 89043428,
+    "linesDeleted": 38789,
+    "linesChanged": 271751,
+    "totalCommits": 272101,
+    "totalPullRequests": 77,
+    "codeByteTotal": 48548427,
     "topLanguages": [
         {
             "languageName": "JavaScript",
             "color": "#f1e05a",
-            "value": 15145971
-        },
-        {
-            "languageName": "Python",
-            "color": "#3572A5",
-            "value": 2499770
+            "value": 40567856
         },
         {
             "languageName": "TypeScript",
             "color": "#3178c6",
-            "value": 1893526
+            "value": 1904240
+        },
+        {
+            "languageName": "SCSS",
+            "color": "#c6538c",
+            "value": 150102
+        },
+        {
+            "languageName": "Java",
+            "color": "#b07219",
+            "value": 585887
+        },
+        {
+            "languageName": "Ruby",
+            "color": "#701516",
+            "value": 565567
         },
         {
             "languageName": "C++",
@@ -32,34 +42,9 @@
             "value": 631629
         },
         {
-            "languageName": "Shell",
-            "color": "#89e051",
-            "value": 641323
-        },
-        {
-            "languageName": "Java",
-            "color": "#b07219",
-            "value": 584977
-        },
-        {
-            "languageName": "Ruby",
-            "color": "#701516",
-            "value": 565116
-        },
-        {
-            "languageName": "Objective-C",
-            "color": "#438eff",
-            "value": 370982
-        },
-        {
-            "languageName": "Pascal",
-            "color": "#E3F171",
-            "value": 326498
-        },
-        {
-            "languageName": "Common Lisp",
-            "color": "#3fb68b",
-            "value": 325361
+            "languageName": "Python",
+            "color": "#3572A5",
+            "value": 2500503
         },
         {
             "languageName": "Go",
@@ -67,9 +52,14 @@
             "value": 149138
         },
         {
-            "languageName": "Cython",
-            "color": "#fedf5b",
-            "value": 781
+            "languageName": "Shell",
+            "color": "#89e051",
+            "value": 641323
+        },
+        {
+            "languageName": "Objective-C",
+            "color": "#438eff",
+            "value": 370982
         },
         {
             "languageName": "Assembly",
@@ -77,14 +67,24 @@
             "value": 387
         },
         {
+            "languageName": "Common Lisp",
+            "color": "#3fb68b",
+            "value": 162797
+        },
+        {
             "languageName": "Csound Document",
             "color": "#1a1a1a",
             "value": 193
         },
         {
-            "languageName": "xBase",
-            "color": "#403a40",
-            "value": 155
+            "languageName": "Batchfile",
+            "color": "#C1F12E",
+            "value": 5304
+        },
+        {
+            "languageName": "Pascal",
+            "color": "#E3F171",
+            "value": 163249
         },
         {
             "languageName": "Fortran",
@@ -93,17 +93,17 @@
         }
     ],
     "forkCount": 0,
-    "starCount": 15,
-    "totalContributions": 272338,
+    "starCount": 36,
+    "totalContributions": 272424,
     "contributionsCollection": {
-        "totalCommitContributions": 272214,
+        "totalCommitContributions": 272260,
         "restrictedContributionsCount": 0,
-        "totalIssueContributions": 36,
-        "totalRepositoryContributions": 31,
-        "totalPullRequestContributions": 55,
+        "totalIssueContributions": 55,
+        "totalRepositoryContributions": 30,
+        "totalPullRequestContributions": 77,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-            "totalContributions": 272338,
+            "totalContributions": 272424,
             "weeks": [
                 {
                     "contributionDays": [
@@ -3456,7 +3456,7 @@
                             "date": "2025-11-05"
                         },
                         {
-                            "contributionCount": 1964,
+                            "contributionCount": 1963,
                             "date": "2025-11-06"
                         },
                         {
@@ -3548,15 +3548,19 @@
                             "date": "2025-11-25"
                         },
                         {
-                            "contributionCount": 13,
+                            "contributionCount": 95,
                             "date": "2025-11-26"
+                        },
+                        {
+                            "contributionCount": 5,
+                            "date": "2025-11-27"
                         }
                     ]
                 }
             ]
         }
     },
-    "closedIssues": 16,
+    "closedIssues": 35,
     "openIssues": 20,
-    "fetchedAt": 1764161922972
+    "fetchedAt": 1764248228492
 }
